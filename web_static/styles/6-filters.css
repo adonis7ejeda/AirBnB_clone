@@ -39,6 +39,8 @@ section div.locations {
     margin: 0;
     list-style: none;
     padding-bottom: 20px;
+    position: relative;
+    z-index: 1;
 }
 
 div.locations ul.popover {
